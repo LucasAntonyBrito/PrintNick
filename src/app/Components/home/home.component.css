@@ -1,0 +1,59 @@
+.sobre{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: white;
+}
+
+.fblack{
+    background-color: black;
+}
+
+.margem{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.text{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sobre2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 238, 0);
+}
+
+.text2{
+    text-align: center;
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.faixa{
+    width: 3200px;
+    height: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 50px;
+    margin-left: 90px;
+  }
+
+.corBox{
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+
+::ng-deep body {
+    background-color: rgb(0, 0, 0);
+}
